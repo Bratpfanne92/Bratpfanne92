@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on projects for School.
 - 🌱 I’m currently learning Web-,Software Developing
 - 💬 Languages: german, hungarian
--  ⚡ Fun fact: I don't even know yet :D
+-  ⚡ Fun fact: I am japanese and american cars fanatic :D
