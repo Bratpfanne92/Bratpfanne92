@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on projects for School.
 - 🌱 I’m currently learning Web-,Software Developing
-- ⚡ Fun fact: I don't even know yet :D
+- 💬 Languages: german, hungarian
+-  ⚡ Fun fact: I don't even know yet :D
